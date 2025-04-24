@@ -11,7 +11,7 @@
 ## Project & Tools ##
 
  * 🗂️ [Project Overview](http://app-ci-pc01:3000/d/BOwGsHEnk/app-team-project-overview?orgId=1) | 📈 [Deployment Monitor](http://app-ci-pc01:3000/d/ijVj6PVIz/application-deployment-monitor?orgId=1&from=now-24h&to=now)
- * ⚙️ [Jenkins](http://app-ci-pc01:8080/)
+ * ⚙️ [Jenkins](http://app-ci-pc01:8080/) | ⚙️ [Jenkins YCP/YMK](http://penih-dt2.pft.com:8080/)
  * 🌌 [Sirius](https://wiki.perfectcorp.com/trac/youperfect/wiki/Sirius)
  * 🦄 [Pokémon](https://www.pokemongjd.com/pkm-navi.html)
 
