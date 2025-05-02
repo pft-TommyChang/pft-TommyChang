@@ -16,6 +16,6 @@
  * 🦄 [Pokémon](https://www.pokemongjd.com/pkm-navi.html)
 
 ## Internal Libraries ##
- * Cocoapods: 📁 [Repos](https://sumer.perfectcorp.com/source/pfapp_pods/)
- * Maven: 📄 [Doc](https://wiki.perfectcorp.com/trac/app-team/wiki/pf_maven_server) | 📁 [Git](https://sumer.perfectcorp.com/source/pfapp_maven/ ) | 🧩 [Server](http://app-maven-pc01.pft.com:8082/ui)
- * PubDev: 📄 [Doc](https://wiki.perfectcorp.com/trac/app-team/wiki/pf_flutter_pub_server) | 📁 [Git](https://sumer.perfectcorp.com/source/pfapp_pub/) | 🧩 [Server](http://app-pub-pc01:8080/)
+ * Cocoapods: 📁 [Repos](https://github.com/perfect-corp/pfapp_pods)
+ * Maven: 📄 [Doc](https://wiki.perfectcorp.com/trac/app-team/wiki/pf_maven_server) | 📁 [Repos](https://github.com/perfect-corp/pfapp_pub) | 🧩 [Server](http://app-maven-pc01.pft.com:8082/ui)
+ * PubDev: 📄 [Doc](https://wiki.perfectcorp.com/trac/app-team/wiki/pf_flutter_pub_server) | 📁 [Repos](https://github.com/perfect-corp/pfapp_maven) | 🧩 [Server](http://app-pub-pc01:8080/)
