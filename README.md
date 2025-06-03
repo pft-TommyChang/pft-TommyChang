@@ -1,5 +1,3 @@
-[![On Push Handling](https://github.com/perfect-corp/ycvbeauty/actions/workflows/on_git_push.yml/badge.svg)](https://github.com/perfect-corp/ycvbeauty/actions/workflows/on_git_push.yml) [![On Push Handling](https://github.com/perfect-corp/ycp-ios/actions/workflows/on_git_push.yml/badge.svg)](https://github.com/perfect-corp/ycp-ios/actions/workflows/on_git_push.yml)
-
 ## My Status ##
  * GitHub(@me): 📝 [Commit](https://github.com/search?q=+org%3Aperfect-corp+author%3A%40me+is%3Aopen+sort%3Aauthor-date+&type=commits&s=committer-date&o=desc) | 🐛 [Issue](https://github.com/search?q=+org%3Aperfect-corp+is%3Aopen+sort%3Aauthor-date++assignee%3A%40me&type=issues) | 👥 [Involves](https://github.com/search?q=+org%3Aperfect-corp+involves%3A%40me+is%3Aopen+sort%3Aauthor-date+&type=issues)
 ## Project Status ##
